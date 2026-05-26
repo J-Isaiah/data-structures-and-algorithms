@@ -1,1 +1,1 @@
-Repo To Store Leet Code Practice Promlems
+Repo To Store Leet Code Practice Problems
